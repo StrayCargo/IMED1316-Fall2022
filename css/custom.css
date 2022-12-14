@@ -10,6 +10,8 @@
   --dominantColor: #294ad6;
   --secondaryColor: #296fd6;
   --accentColor: #29bcd6;
+  --tertiaryColor: #0d87e0;
+  --fillerColor: #000000;
 
   --boxShadow: 0 0 20px rgba(0, 0, 0, 0.35); /* var(--boxShadow) !important; */
 }
